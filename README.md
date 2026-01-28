@@ -56,6 +56,11 @@ Este projeto demonstra na prática o ciclo completo do dado:
 ### 🟣 4. Orquestração (`pipeline.py`)
 Executa automaticamente todas as etapas na ordem correta.
 
+
+📷 *Imagem do dashboard:*
+
+![Dashboard](docs/dashboard.png)
+
 ---
 
 ## ▶️ Como Executar o Projeto
@@ -64,3 +69,4 @@ Executa automaticamente todas as etapas na ordem correta.
 
 ```bash
 .\.venv\Scripts\activate
+

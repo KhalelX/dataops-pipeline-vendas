@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a0074c8-863e-4e65-abaf-c7eeb6208362" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataops_automacao_operacional.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/carga_banco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/criar_banco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/ingestao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/logger_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/tratamento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/verificar_banco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +209,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769541913100</updated>
       <workItem from="1769541913967" duration="9002000" />
-      <workItem from="1769609406857" duration="2741000" />
+      <workItem from="1769609406857" duration="3239000" />
     </task>
     <servers />
   </component>
